@@ -1,6 +1,6 @@
 # University-Data-Analytics
 
-Thoroughly examine the primary factors that have affected university rankings and evaluate how they have contributed to Nanyang Technological University's (NTU) recent decline in rankings. This analysis leverages publicly accessible web data extracted from [INSERT URL HERE] with the aim of offering actionable insights to assist NTU in strategically improving its ranking position. The technological tools employed for this endeavor encompass Python for web scraping and R for data analysis.
+Thoroughly examine the primary factors that have affected university rankings and evaluate how they have contributed to Nanyang Technological University's (NTU) recent decline in rankings. This analysis leverages publicly accessible web data extracted from [[URL](https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking)] with the aim of offering actionable insights to assist NTU in strategically improving its ranking position. The technological tools employed for this endeavor encompass Python for web scraping and R for data analysis.
 
 ## Table of Contents
 
@@ -37,7 +37,9 @@ The number of international students is moderately correlated with the overall s
 
 Credits/ Sources: 
 https://www.timeshighereducation.com/world-university-rankings/world-university-rankings-2023-methodology
+
 https://www.timeshighereducation.com/world-university-rankings/2023/world-ranking
+
 https://chat.openai.com/share/c981a0dc-a75d-4589-9e8e-a8832cdb8901
 
 
